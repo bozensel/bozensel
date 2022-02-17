@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to Baris's Github Page
-  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="28">
+  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
 </h1>
 
 - 🔭 I’m currently working on Nokia
@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
 <h1 align="center">
-  "https://cdn.hackernoon.com/hn-images/1*XW5Mzdt_DrvZXTXr4v_7AQ.png"
+  <img src="https://cdn.hackernoon.com/hn-images/1*XW5Mzdt_DrvZXTXr4v_7AQ.png">
 </h1>
 
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
