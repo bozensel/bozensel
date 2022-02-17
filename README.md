@@ -9,7 +9,7 @@
 
 <h1 align="center">
   Mate in 3, white to move :) 
-  <img src="![image](https://user-images.githubusercontent.com/94804863/154567585-f46c5428-22a7-477c-a506-3ce997229579.png)" width="28">
+  "![image](https://user-images.githubusercontent.com/94804863/154567585-f46c5428-22a7-477c-a506-3ce997229579.png)"
 </h1>
 
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
