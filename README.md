@@ -7,7 +7,7 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
-<h1 align="center">
+<h1 align="right">
   <img src="https://cdn.hackernoon.com/hn-images/1*XW5Mzdt_DrvZXTXr4v_7AQ.png" width="750">
 </h1>
 
