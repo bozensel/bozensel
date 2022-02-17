@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to My GitHub Page
-  <img src="https://www.cisco.com/" width="28">
+  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="28">
 </h1>
 
 - 🔭 I’m currently working on Nokia
