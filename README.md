@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to My GitHub Page
+  Welcome to Baris's Github Page
   <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="28">
 </h1>
 
