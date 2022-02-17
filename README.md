@@ -8,6 +8,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
 Mate in 3, white to move, enjoy :)
+
 ![image](https://user-images.githubusercontent.com/94804863/154567585-f46c5428-22a7-477c-a506-3ce997229579.png)
 
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
