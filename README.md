@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
 <h1 align="center">
-  <img src="https://cdn.hackernoon.com/hn-images/1*XW5Mzdt_DrvZXTXr4v_7AQ.png" width="1500">
+  <img src="https://cdn.hackernoon.com/hn-images/1*XW5Mzdt_DrvZXTXr4v_7AQ.png" width="1000">
 </h1>
 
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
