@@ -7,6 +7,8 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
+https://cdn.hackernoon.com/hn-images/1*XW5Mzdt_DrvZXTXr4v_7AQ.png
+
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
 
 <!--
