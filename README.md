@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![snake gif](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.gif)
-![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
