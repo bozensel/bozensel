@@ -1,5 +1,10 @@
 ### Welcome to My GitHub Page </> 👋
 
+<h1 align="center">
+  Welcome to My GitHub Page
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
 - 🔭 I’m currently working on Nokia
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
