@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to Baris's Github Page
-  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="36">
+  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="24">
 </h1>
 
 - 🔭 I’m currently working on Nokia
