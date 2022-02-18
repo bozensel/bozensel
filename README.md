@@ -8,6 +8,8 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
+![cisco-certified-networking-professional-enterprise](https://user-images.githubusercontent.com/94804863/154625873-2893798f-a685-4a1c-b2c6-328433d23f70.png)![cisco-certified-devnet-specialist-core](https://user-images.githubusercontent.com/94804863/154625984-0fedd1ce-60fb-4a2b-9e1e-b9842e3790c3.png)
+
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
 <!--
 **bozensel/bozensel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
