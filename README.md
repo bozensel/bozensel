@@ -8,7 +8,9 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
-https://media.istockphoto.com/vectors/chess-pieces-binary-code-vector-pattern-background-vector-id944102442
+<h1 align="center">
+  <img src="https://media.istockphoto.com/vectors/chess-pieces-binary-code-vector-pattern-background-vector-id944102442" width="28" >
+</h1>
 
 Holding the following certifications: 
 
