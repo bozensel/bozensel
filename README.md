@@ -8,7 +8,7 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
-![cisco-certified-networking-professional-enterprise](https://user-images.githubusercontent.com/94804863/154625873-2893798f-a685-4a1c-b2c6-328433d23f70.png)![cisco-certified-devnet-specialist-core](https://user-images.githubusercontent.com/94804863/154625984-0fedd1ce-60fb-4a2b-9e1e-b9842e3790c3.png)![nokia-network-routing-specialist-ii-nrs-ii-certification](https://user-images.githubusercontent.com/94804863/154626277-da22ea45-62e5-4183-a21c-3aba62a65881.png)![nuage-networks-professional-software-defined-datacenter-nnp-sd-dc-certification](https://user-images.githubusercontent.com/94804863/154626418-1bb1137c-3ed4-4671-a711-22e98d34f36a.png)
+![cisco-certified-networking-professional-enterprise (2)](https://user-images.githubusercontent.com/94804863/154626813-a4283ecc-3ca9-4140-af22-0e7c9351a88c.png)![cisco-certified-devnet-specialist-core (1)](https://user-images.githubusercontent.com/94804863/154626827-c2e1f9fd-81e1-4152-bae5-e9fde2b85f95.png)![nokia-network-routing-specialist-ii-nrs-ii-certification (1)](https://user-images.githubusercontent.com/94804863/154626847-0aa113d1-7dbe-4483-abea-3c81783fab15.png)![nuage-networks-professional-software-defined-datacenter-nnp-sd-dc-certification (1)](https://user-images.githubusercontent.com/94804863/154626856-01aa473b-20e6-45e8-a25e-bf6619358348.png)
 
 ![snake svg](https://github.com/bozensel/bozensel/blob/output/github-contribution-grid-snake.svg)
 <!--
