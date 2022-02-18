@@ -8,8 +8,8 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
-<h1 align="center">
-  <img src="https://media.istockphoto.com/vectors/chess-pieces-binary-code-vector-pattern-background-vector-id951722554?k=20&m=951722554&s=170667a&w=0&h=4jAsK8W0lZUBlvESPAZ6QDDT2gOaxJVfiidUk3QEccw=" width="750" >
+<h1 align="left">
+  <img src="https://media.istockphoto.com/vectors/chess-pieces-binary-code-vector-pattern-background-vector-id951722554?k=20&m=951722554&s=170667a&w=0&h=4jAsK8W0lZUBlvESPAZ6QDDT2gOaxJVfiidUk3QEccw=" width="500" >
 </h1>
 
 Holding the following certifications: 
