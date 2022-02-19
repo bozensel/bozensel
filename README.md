@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="28" >
 </h1>
 
-- 🔭 I’m currently working on Nokia
+- 🔭 I’m currently working for Nokia
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
