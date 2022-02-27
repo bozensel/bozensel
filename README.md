@@ -4,6 +4,10 @@
   <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="28" >
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I+am+Baris+Ozensel;Network+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+</p>
+
 - 🔭 I’m currently working for Nokia
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
