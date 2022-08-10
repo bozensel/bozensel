@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There;I+am+Baris+Ozensel;NetDevOps+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=201CCF&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There;I+am+Baris+Ozensel;NetDevOps+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=201CCF&vCenter=true&size=30">
 </p>
 
 - 🔭 I’m currently working for Nokia
