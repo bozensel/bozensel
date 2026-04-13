@@ -58,6 +58,7 @@ AWS (VPC, EC2, basic networking)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bozensel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozensel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bozensel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozensel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400" />
 </p>
