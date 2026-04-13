@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;NetDevOps+Enthusiast;Automation+Lover&font=Fira%20Code&center=true&width=440&height=45&color=201CCF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;NetDevOps+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=201CCF&vCenter=true&size=22">
 </p>
 
 ---
