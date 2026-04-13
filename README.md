@@ -1,29 +1,42 @@
-<h1 align="center">
-  👋 Hi, I'm Baris Ozensel
-</h1>
+<h1 align="center">Hi 👋 I'm Baris Ozensel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;NetDevOps+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=201CCF&vCenter=true&size=22">
+Network Engineer | NetDevOps & Automation | Python | CI/CD | CCNP (Enterprise & Automation) | NRS II
+</p>
+
+<p align="center">
+Building scalable, automated networks
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💼 Network Engineer with 10+ years experience  
-- 🔧 Working with **Juniper, Cisco, Nokia**  
-- 🤖 Focused on **Network Automation & NetDevOps**  
-- 💬 Ask me about networking & automation  
+
+Network Engineer specialized in:
+
+- Network Automation (Python, Ansible, Netmiko)
+- Multi-vendor enterprise & service provider networks
+- CI/CD for infrastructure (Jenkins, GitHub Actions)
+- Cloud networking (AWS basics, VPC, EC2)
+- Large-scale routing & switching environments
+
+10+ years experience across ISP, Datacenter and Enterprise networks.
 
 ---
 
-## 🛠️ Tech Stack
-Python | Ansible | Git | Jenkins | Linux
+## 🛠 Tech Stack
 
-Routing | Switching | VLAN | BGP | DHCP | DNS
+### Network
+BGP • OSPF • ISIS • MPLS • EVPN • VXLAN • SD-WAN
 
-NetDevOps | CI/CD | Automation Testing
+### Automation
+Python • Ansible • Netmiko • Paramiko • Jinja2 • YANG • REST API
 
+### DevOps
+Git • Jenkins • GitHub Actions • CI/CD • Linux
 
+### Cloud
+AWS (VPC, EC2, basic networking)
 
 ---
 
@@ -31,7 +44,6 @@ NetDevOps | CI/CD | Automation Testing
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-CCNP%20Enterprise-blue?style=for-the-badge&logo=cisco">
-  <img src="https://img.shields.io/badge/Cisco-DevNet%20Specialist-blue?style=for-the-badge&logo=cisco">
   <img src="https://img.shields.io/badge/Cisco-CCNP%20Automation-blue?style=for-the-badge&logo=cisco">
   <img src="https://img.shields.io/badge/Nokia-NRS%20II-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Nuage-SD%20DC-green?style=for-the-badge">
