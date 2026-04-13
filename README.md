@@ -15,7 +15,7 @@ Building scalable, automated networks
 Network Engineer specialized in:
 
 - Network Automation (Python, Ansible, Netmiko)
-- Multi-vendor enterprise & data center & service provider networks
+- Multi-vendor enterprise & service provider networks
 - CI/CD for infrastructure (Jenkins, GitHub Actions)
 - Cloud networking (AWS basics, VPC, EC2)
 - Large-scale routing & switching environments
