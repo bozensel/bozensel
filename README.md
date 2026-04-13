@@ -11,10 +11,6 @@
 - 💬 Ask me about network and network automation
 - 📫 How to reach me: https://www.linkedin.com/in/ozenselbaris/
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/96883175/154664655-8584a154-2ee7-4791-8047-df4dad122c27.png" width="500" >
-</h1>
-
 Holding the following certifications: 
 
 ![cisco-certified-networking-professional-enterprise (6)](https://user-images.githubusercontent.com/94804863/154635307-40b8519f-9ecc-4320-b685-9e879f48e072.png)![cisco-certified-devnet-specialist-core (4)](https://user-images.githubusercontent.com/94804863/154635329-117c4f6b-0b0b-4bc7-969b-69e3b56d736a.png)![nokia-network-routing-specialist-ii-nrs-ii-certification (3)](https://user-images.githubusercontent.com/94804863/154635365-bf1d9a42-6c2e-45f3-8bbb-b1d6e95fdd68.png)![nuage-networks-professional-software-defined-datacenter-nnp-sd-dc-certification (3)](https://user-images.githubusercontent.com/94804863/154635377-e440b541-a9bb-4162-b4b1-7c22486e8fe4.png)<img width="100" height="100" alt="cisco-certified-network-professional-automation-ccn" src="https://github.com/user-attachments/assets/b392b1e9-e7fa-4ec6-9f4a-21da42b170b5" />
