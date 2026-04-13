@@ -54,3 +54,10 @@ AWS (VPC, EC2, basic networking)
 ## 📫 Contact Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ozenselbaris/
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bozensel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozensel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
