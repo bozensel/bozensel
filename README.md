@@ -27,7 +27,7 @@ Network Engineer specialized in:
 ## 🛠 Tech Stack
 
 ### Network
-BGP • OSPF • ISIS • MPLS • EVPN • VXLAN • SD-WAN • Segment Routing • L2VPN • L3VPN • Anycast
+BGP • OSPF • ISIS • MPLS • EVPN • VXLAN • SD-WAN • Segment Routing • L2VPN • L3VPN • Anycast • Multicast • QoS
 
 ### Automation
 Python • Ansible • Netmiko • Paramiko • Jinja2 • YANG • REST API • Netconf • Shell
