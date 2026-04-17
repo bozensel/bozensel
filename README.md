@@ -33,7 +33,7 @@ BGP • OSPF • ISIS • MPLS • EVPN • VXLAN • SD-WAN • Segment Routing
 Python • Ansible • Netmiko • Paramiko • Jinja2 • YANG • REST API • Netconf • Shell
 
 ### DevOps
-Git • Jenkins • GitHub Actions • CI/CD • Linux
+Git • Jenkins • GitHub Actions • CI/CD • Linux • Containerization (Docker) • Infrastructure as Code • Configuration Management
 
 ### Cloud
 AWS (VPC, EC2, basic networking)
